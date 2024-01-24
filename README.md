@@ -7,8 +7,7 @@ In today's video i'm going to show you how to use css to create a box with text 
 We hope that you will enjoy our tutorial. We worked hard to put it all together here on YouTube and we're excited to be offering it to you, 
 If you enjoy what you saw, be sure to Subscribe for more content like this!
 
-Get Free SOURCE CODE from here:
-https://github.com/tiefsoftwarelab/Modern-Personal-Portfolio-Website-HTML-CSS.git
+Get Free SOURCE course from here: https://youtu.be/p6wQSHsDCzc
 
 - Music used: Purrple Cat - Sea of Stars
 - Image: Picture of Cat in Living Room
